@@ -1,8 +1,8 @@
 Usage is as follows:
 
 ```javascript
-import YouTubeChannel from 'react-youtube-channel';
-import 'reacty-youtube-playlist/dist/styles'
+import YouTubePlaylist from 'react-youtube-playlist';
+import 'react-youtube-playlist/dist/styles'
 
 const App = () => {
   return (
